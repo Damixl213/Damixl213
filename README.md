@@ -16,4 +16,6 @@
 
 Let's connect, collaborate, and create something amazing! 🌟
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damixl213)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damixl213&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=ambient_gradient&private=true )](https://github.com/anuraghazra/github-readme-stats) <br/> 
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Damixl213&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
