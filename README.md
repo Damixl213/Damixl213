@@ -13,4 +13,7 @@
 
 📌 Check out my portfolio: [oyeyipooluwadamiloa.me](https://oyeyipooluwadamiloa.me/#home)<br/>
 
+
 Let's connect, collaborate, and create something amazing! 🌟
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damixl213)](https://github.com/anuraghazra/github-readme-stats)
