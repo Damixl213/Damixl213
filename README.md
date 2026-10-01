@@ -22,31 +22,28 @@ Software Engineering student at **MIVA Open University** (Nigeria), building mod
  
 
 ## 💻 Tech Stack:
-<details>
- <summary><h3>Languages</h3></summary>
+
+<h3>Languages</h3>
   <img src="https://skillicons.dev/icons?i=java,javascript,html,python,c,typescript" />
 
-</details>
 
-<details>
-  <summary><h4>Frontend</h4></summary>
+<h4>Frontend</h4>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
- </details>
+
  
-<details>
-  <summary><h3>Backend & Database</h3></summary>
+
+ <h3>Backend & Database</h3>
   <img src="https://skillicons.dev/icons?i=nodejs,flask,django,sqlite,postman,cpp" />
-</details>
 
-<details>
-  <summary><h4>Tools</h4></summary>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,robloxstudio,vscode" />
-</details>
 
-<details>
-  <summary><h3>AI & Computer Vision</h3></summary>
-  <img src="https://skillicons.dev/icons?i=py,ai" />
-</details> <br>
+ <h4>Tools</h4>
+   <img src="https://skillicons.dev/icons?i=git,github,vercel,robloxstudio,vscode" />
+
+
+
+<h3>AI & Computer Vision</h3>
+  <img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white" alt="Roboflow" />
+ <br>
 
 
 ## ⭐ Featured Projects
@@ -115,10 +112,15 @@ I use [Roboflow](https://roboflow.com) for hands-on computer vision work:
 
 ## 📊 GitHub Stats
  
-![Stats](https://github-readme-stats.vercel.app/api?username=Damixl213&theme=dark&hide_border=false&include_all_commits=false&count_private=true) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Damixl213&theme=dark&hide_border=false&layout=compact)
-
-
+<table align="center" border: none >
+  <tr>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=Damixl213&theme=dark&show_icons=true&count_private=true" width="100%" alt="GitHub Stats" /></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damixl213&theme=dark&layout=compact" width="100%" alt="Top Languages" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://streak-stats.demolab.com/?user=Damixl213&theme=dark" width="100%" alt="GitHub Streak" /></td>
+  </tr>
+</table>
 
 
   
