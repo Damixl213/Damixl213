@@ -5,7 +5,7 @@
 Software Engineering student at **MIVA Open University** (Nigeria), building modern web applications and practical AI-powered products. I turn ideas into working software: responsive front ends, APIs, and machine learning features that solve real problems.
  
 📫 **Open to junior/intern full-stack and frontend roles (remote or Nigeria-based).** <br><br>
-**Email:** dammydave1610@gmail.com · **LinkedIn:**[Oluwadamilolaoyeyipo](www.linkedin.com/in/oluwadamilola-oyeyipo-b483ba2ab)  · **Portfolio:** [(https://oyeyipooluwadamiloa.me/index)](https://damixl213.github.io/)
+**Email:** dammydave1610@gmail.com · **LinkedIn:**[Oluwadamilolaoyeyipo](https://www.linkedin.com/in/oluwadamilola-oyeyipo-b483ba2ab/?isSelfProfile=true&trk=li_LOL_SPIN_global_careers_jobsgtm_otw2_acq_Nov2020_spinv4)  · **Portfolio:** [(https://oyeyipooluwadamiloa.me/index)](https://damixl213.github.io/)
  
 ## 🚀 What I Do:
 
