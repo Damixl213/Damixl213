@@ -1,10 +1,13 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=32&pause=1000&color=4908D2&width=435&height=100&lines=Hello+there+++%F0%9F%91%8B;I'm+Damilola;I'm+a+Software+Engineer+;And+an+AI+learning+engineer" alt="Typing SVG" /></a></h1>
-<h3>Software Engineer | Full-Stack Developer | Computer Vision</h3>
-I'm a Software Engineering student at MIVA Open University, passionate about building modern web applications and practical AI-powered solutions.
 
-I enjoy turning ideas into functional products, from responsive web applications and APIs to machine learning and computer vision projects.
-
-# 🚀 What I Do:
+### Software Engineer | Full-Stack Developer | Computer Vision
+ 
+Software Engineering student at **MIVA Open University** (Nigeria), building modern web applications and practical AI-powered products. I turn ideas into working software: responsive front ends, APIs, and machine learning features that solve real problems.
+ 
+📫 **Open to junior/intern full-stack and frontend roles (remote or Nigeria-based).** <br><br>
+**Email:** dammydave1610@gmail.com · **LinkedIn:**[David Oluwadamilola oyeyipo](www.linkedin.com/in/oluwadamilola-oyeyipo-b483ba2ab)  · **Portfolio:** [(https://oyeyipooluwadamiloa.me/index)](https://damixl213.github.io/)
+ 
+## 🚀 What I Do:
 
 <ul>
  <li>💻 Build full-stack web applications</li>
@@ -18,7 +21,7 @@ I enjoy turning ideas into functional products, from responsive web applications
 
  
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <details>
  <summary><h3>Languages</h3></summary>
   <img src="https://skillicons.dev/icons?i=java,javascript,html,python,c,typescript" />
@@ -26,7 +29,7 @@ I enjoy turning ideas into functional products, from responsive web applications
 </details>
 
 <details>
-  <summary><h3>Frontend</h3></summary>
+  <summary><h4>Frontend</h4></summary>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
  </details>
  
@@ -36,16 +39,18 @@ I enjoy turning ideas into functional products, from responsive web applications
 </details>
 
 <details>
-  <summary><h3>Tools</h3></summary>
+  <summary><h4>Tools</h4></summary>
   <img src="https://skillicons.dev/icons?i=git,github,vercel,robloxstudio,vscode" />
 </details>
 
 <details>
   <summary><h3>AI & Computer Vision</h3></summary>
   <img src="https://skillicons.dev/icons?i=py,ai" />
-</details>
+</details> <br>
 
-<h1>⭐Featured Projects:</h1>
+
+## ⭐ Featured Projects
+
 
 <details>
  <summary> <h3>🧠 Intelligent Social Networking Platform</h3></summary>
@@ -98,50 +103,23 @@ Tech: • Vite • Tailwind CSS • Shopify Storefront AP
 
 </details>
 
-<h1>👁️ Machine Learning & Computer Vision</h1>
-<p>I'm particularly interested in applying machine learning to real-world applications.
-
-My hands-on experience includes using Roboflow for computer vision, including:
-<ol>
-<li>Image classification</li>
-<li>Dataset preparation</li>
-<li>Image labeling and annotation</li>
-<li>Dataset splitting</li>
-<li>Model training</li>
-<li>Model evaluation</li>
-<li>Computer vision workflows</li>
-<li>Image classification</li>
-<li>Image classification</li>
-<li>Image classification</li>
-</ol>
-
-I'm interested in exploring:
-<ol>
-<li>Image classification</li>
-<li>Object detection</li>
-<li>AI-powered content moderation</li>
-<li>Computer vision automation</li>
-<li>Intelligent web applications</li>
+## 👁️ Machine Learning & Computer Vision
  
-</ol>
-</p>
-
-
-## 🌐 Socials:
-Check out my portfolio: [(https://oyeyipooluwadamiloa.me/index)](https://damixl213.github.io/) <br><br> Let's connect, collaborate, and create something amazing! 🌟
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Damixl213&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Damixl213&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Damixl213&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I use [Roboflow](https://roboflow.com) for hands-on computer vision work:
+- Dataset preparation, labeling, and annotation
+- Dataset splitting, model training, and evaluation
+- Image classification workflows
+**Currently exploring:** object detection · AI-powered content moderation · computer vision automation
 
 
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Oluwadamilola Oyeyipo) 
+## 📊 GitHub Stats
+ 
+![Stats](https://github-readme-stats.vercel.app/api?username=Damixl213&theme=dark&hide_border=false&include_all_commits=false&count_private=true) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Damixl213&theme=dark&hide_border=false&layout=compact)
+
+
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
