@@ -111,17 +111,16 @@ I use [Roboflow](https://roboflow.com) for hands-on computer vision work:
 
 
 ## 📊 GitHub Stats
- 
-<table align="center" border: none >
+<table align="center" border="0">
   <tr>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=Damixl213&theme=dark&show_icons=true&count_private=true" width="100%" alt="GitHub Stats" /></td>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damixl213&theme=dark&layout=compact" width="100%" alt="Top Languages" /></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=Damixl213&show_icons=true&count_private=true&bg_color=0A0613&title_color=2E9BFF&icon_color=FF3B3B&ring_color=7B2FFF&text_color=E8DFFF&border_color=4908D2" width="100%" alt="GitHub Stats" /></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damixl213&layout=compact&bg_color=0A0613&title_color=FF3B3B&text_color=E8DFFF&border_color=4908D2" width="100%" alt="Top Languages" /></td>
   </tr>
   <tr>
-    <td width="50%"><img src="https://streak-stats.demolab.com/?user=Damixl213&theme=dark" width="100%" alt="GitHub Streak" /></td>
+    <td colspan="2" align="center"><img src="https://streak-stats.demolab.com/?user=Damixl213&background=0A0613&border=4908D2&stroke=4908D2&ring=2E9BFF&fire=FF3B3B&currStreakNum=E8DFFF&sideNums=E8DFFF&currStreakLabel=2E9BFF&sideLabels=FF3B3B&dates=A98BE0" width="50%" alt="GitHub Streak" /></td>
   </tr>
 </table>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9BFF,20:4908D2,80:4908D2,100:FF3B3B&height=120&section=footer" width="100%" />
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
